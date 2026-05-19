@@ -23,51 +23,51 @@
 </td>
 
 <td align="center" width="160">
-<a href="https://github.com/GITHUB_ID_2">
-<img src="https://github.com/GITHUB_ID_2.png" width="80" height="80" alt="GITHUB_ID_2" />
+<a href="https://github.com/J4EH00N">
+<img src="https://github.com/J4EH00N.png" width="80" height="80" alt="J4EH00N" />
 </a>
 <br />
-<b>팀원 이름 2</b>
+<b>심재훈</b>
 <br />
-<sub><b>역할 작성</b></sub>
+<sub><b>PA</b></sub>
 <br />
-<sub>담당 내용 작성</sub>
+<sub>확장 자동 설치 및 정정 분석 로직</sub>
 </td>
 
 <td align="center" width="160">
-<a href="https://github.com/GITHUB_ID_3">
-<img src="https://github.com/GITHUB_ID_3.png" width="80" height="80" alt="GITHUB_ID_3" />
+<a href="https://github.com/Juhyeok0603">
+<img src="https://github.com/Juhyeok0603.png" width="80" height="80" alt="Juhyeok0603" />
 </a>
 <br />
-<b>팀원 이름 3</b>
+<b>윤주혁</b>
 <br />
-<sub><b>역할 작성</b></sub>
+<sub><b>PA</b></sub>
 <br />
-<sub>담당 내용 작성</sub>
+<sub>웹 서버 프론트/백엔드 개발</sub>
 </td>
 
 <td align="center" width="160">
-<a href="https://github.com/GITHUB_ID_4">
-<img src="https://github.com/GITHUB_ID_4.png" width="80" height="80" alt="GITHUB_ID_4" />
+<a href="https://github.com/kkaturi14">
+<img src="https://github.com/kkaturi14.png" width="80" height="80" alt="kkaturi14" />
 </a>
 <br />
-<b>팀원 이름 4</b>
+<b>곽민경</b>
 <br />
-<sub><b>역할 작성</b></sub>
+<sub><b>PA</b></sub>
 <br />
-<sub>담당 내용 작성</sub>
+<sub>Holding 로직 및 악성 시나리오 수집</sub>
 </td>
 
 <td align="center" width="160">
-<a href="https://github.com/GITHUB_ID_5">
-<img src="https://github.com/GITHUB_ID_5.png" width="80" height="80" alt="GITHUB_ID_5" />
+<a href="https://github.com/Pandyo">
+<img src="https://github.com/Pandyo.png" width="80" height="80" alt="Pandyo" />
 </a>
 <br />
-<b>팀원 이름 5</b>
+<b>박혜수</b>
 <br />
-<sub><b>역할 작성</b></sub>
+<sub><b>PA</b></sub>
 <br />
-<sub>담당 내용 작성</sub>
+<sub>AI 기반 동적 분석 로직</sub>
 </td>
 </tr>
 </table>
