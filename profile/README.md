@@ -19,7 +19,7 @@
 <br />
 <sub><b>PM</b></sub>
 <br />
-<sub>프로젝트 총괄 및 난독화/레트로 분석 로직</sub>
+<sub>난독화/레트로 분석 로직</sub>
 </td>
 
 <td align="center" width="160">
@@ -31,7 +31,7 @@
 <br />
 <sub><b>PA</b></sub>
 <br />
-<sub>확장 자동 설치 및 정정 분석 로직</sub>
+<sub>자동설치 및 정정 분석 로직</sub>
 </td>
 
 <td align="center" width="160">
@@ -55,7 +55,7 @@
 <br />
 <sub><b>PA</b></sub>
 <br />
-<sub>Holding 로직 및 악성 시나리오 수집</sub>
+<sub>Holding 로직 및 시나리오 수집</sub>
 </td>
 
 <td align="center" width="160">
