@@ -7,6 +7,16 @@
 
 <br/>
 
+<h2 align="center">Project Overview</h2>
+
+<p align="center">
+ES3는 브라우저 확장 프로그램의 공급망 보안 강화를 목표로 하는 보안 분석 시스템입니다.<br />
+사용자가 확장 프로그램을 설치하기 전, 정적 분석과 위험 단서 탐지를 통해<br />
+악성 행위 가능성, 과도한 권한, 의심스러운 코드 패턴 등을 사전에 검토할 수 있도록 지원합니다.
+</p>
+
+<br />
+
 <h2 align="center">Project Team</h2>
 
 <table align="center">
