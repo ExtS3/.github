@@ -11,15 +11,15 @@
 <table align="center">
 <tr>
 <td align="center" width="160">
-<a href="https://github.com/GITHUB_ID_1">
-<img src="https://github.com/GITHUB_ID_1.png" width="80" height="80" alt="GITHUB_ID_1" />
+<a href="https://github.com/Interludeal">
+<img src="https://github.com/Interludeal.png" width="80" height="80" alt="Interludeal" />
 </a>
 <br />
-<b>팀원 이름 1</b>
+<b>정재성</b>
 <br />
-<sub><b>역할 작성</b></sub>
+<sub><b>PM</b></sub>
 <br />
-<sub>담당 내용 작성</sub>
+<sub>프로젝트 총괄 및 난독화/레트로 분석 로직</sub>
 </td>
 
 <td align="center" width="160">
