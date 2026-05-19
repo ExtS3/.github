@@ -55,7 +55,7 @@
 <br />
 <sub><b>PA</b></sub>
 <br />
-<sub>Holding 로직 및 시나리오 수집</sub>
+<sub>악성 시나리오 수집 및 Holding</sub>
 </td>
 
 <td align="center" width="160">
