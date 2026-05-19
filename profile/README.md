@@ -2,6 +2,8 @@
 
 <h1>Extemsion Supply chain Security System (ES3)</h1>
 <strong>2026-1 중부대학교 정보보안SW융합전공</strong>
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/53e77d7e-966b-471b-b690-b937800191bd" />
+
 <br />
 
 <h2 align="center">Project Team</h2>
