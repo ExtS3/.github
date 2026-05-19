@@ -3,12 +3,6 @@
 <strong>2026-1 중부대학교 정보보안SW융합전공</strong>
 <h1>Extemsion Supply chain Security System (ES3)</h1>
 
-<img width="800" alt="ChatGPT Image 2026년 5월 19일 오후 02_25_06" src="https://github.com/user-attachments/assets/7019f606-7f63-471c-a4f7-79b0f27496fc" />
-
-<br /><br />
-
-<h2 align="center">Project Overview</h2>
-
 <p align="center">
 ES3는 <strong>비개발 프로그램의 공급망 보안 강화</strong>를 목표로 하는 보안 분석 시스템입니다.<br />
 <strong>정적/난독화/동적 분석</strong>을 통해 프로그램 설치 전 위험 단서를 수집하고,<br />
@@ -18,7 +12,8 @@ ES3는 <strong>비개발 프로그램의 공급망 보안 강화</strong>를 목
 새로운 확장 프로그램 사용 요청 시 <strong>Holding</strong> 과정을 통해 평판 기반의 안정성을 함께 제공합니다.
 </p>
 
-<br />
+<img width="800" alt="ChatGPT Image 2026년 5월 19일 오후 02_25_06" src="https://github.com/user-attachments/assets/7019f606-7f63-471c-a4f7-79b0f27496fc" />
+
 <br />
 
 <h2 align="center">Project Team</h2>
