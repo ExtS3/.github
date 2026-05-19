@@ -40,7 +40,7 @@ ES3는 <strong>비개발 프로그램의 공급망 보안 강화</strong>를 목
 <br />
 <sub><b>PA</b></sub>
 <br />
-<sub>자동설치 및 정정 분석 로직</sub>
+<sub>자동설치 및 정적 분석 로직</sub>
 </td>
 
 <td align="center" width="160">
