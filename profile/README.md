@@ -16,7 +16,7 @@ ES3는 <strong>비개발 프로그램의 공급망 보안 강화</strong>를 목
 <br />
 
 <h2 align="center">Project Team</h2>
-<strong>2026-1 중부대학교 정보보안SW융합전공</strong>
+
 <table align="center">
 <tr>
 <td align="center" width="160">
